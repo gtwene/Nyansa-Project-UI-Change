@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "271032656606",
+    "project_id": "nyansah-44571",
+    "storage_bucket": "nyansah-44571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271032656606:android:5c94c9d1b50e637467d84f",
+        "android_client_info": {
+          "package_name": "com.example.nyansa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271032656606-rkg4ddo0q63j82gvud7u7mm5iipkjkgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCay6MUH5i7NMjy_jgDSUeBr0rXHnpxFlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271032656606-rkg4ddo0q63j82gvud7u7mm5iipkjkgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271032656606:android:017d757a92f62e2467d84f",
+        "android_client_info": {
+          "package_name": "com.project.nyansah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271032656606-rkg4ddo0q63j82gvud7u7mm5iipkjkgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCay6MUH5i7NMjy_jgDSUeBr0rXHnpxFlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271032656606-rkg4ddo0q63j82gvud7u7mm5iipkjkgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
